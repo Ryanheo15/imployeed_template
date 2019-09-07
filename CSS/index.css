@@ -1,0 +1,107 @@
+/*MAIN CODE */
+* {
+  margin:0;
+  padding:0;
+}
+/* HEADER SECTION */
+.main-header {
+  padding-top:150px;
+}
+.main-img {
+  margin-top:200px;
+}
+
+.logo {
+  height:120px;
+  width:120px;
+}
+
+/* NAVBAR */
+.navbar {
+  position:sticky !important;
+}
+
+/* OFFER SECTION */
+#offer {
+  margin-top:120px;
+}
+
+.offer-heading {
+  background:#5bc0de;
+  height:150px;
+  padding-top:25px;
+}
+
+.offer-title {
+  margin-top:30px;
+}
+
+#offer img {
+  height:500px;
+  width:400px;
+}
+
+#offer .waiter {
+  height:400px;
+  width:425px;
+}
+
+/* HOW IT WORKS */
+#works {
+}
+#works .img-border {
+  border-radius:50%;
+  height:250px;
+  width:250px;
+}
+
+.works-img {
+  height:100%;
+  width:100%;
+  border-radius:45%;
+  margin-left:25%;
+  margin-right:25%;
+}
+
+.right-arrow {
+  margin-top:30px;
+  margin-left:25%;
+  margin-right:25%;
+  width:200px;
+}
+
+/* MISSION */
+#mission {
+  min-height:400px;
+}
+
+
+
+
+/*
+.skewed {
+  position:relative;
+  width:100%;
+  height:275px;
+  background-color: #5bc0de;
+  padding-top:30px;
+}
+
+.skewed::after {
+  position:absolute;
+  width:100%;
+  height:100%;
+  top:0px;
+  bottom:0px;
+  left:0px;
+  right:0px;
+  content: "";
+  background:inherit;
+  transform-origin: top right;
+  transform:skewY(-10deg);
+}
+
+.skewed h2 {
+  color:white;
+}
+*/
